@@ -10,3 +10,5 @@ I built this Quiz App to improve my core knowledge of HTML, CSS, and JavaScript 
 - Save high scores in Local Storage
 - JSON Parse and Stringify
 - Fetch API
+
+![](https://raw.githubusercontent.com/YuliyaNY/Quiz_App/master/img/Markdow%20img.png)
