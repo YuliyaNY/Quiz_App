@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Results</title>
+    <link rel="stylesheet" href="css/game.css">
+    <link rel="stylesheet" href="css/end.css">
+</head>
+<body>
+    <div class="container">
+        <div id="end">
+            <h1 class="result">Your Score Is <span id="finalScore">0</span></h1>
+            <form action="">
+                <input type="text" name="username" id="username" placeholder="user name">
+                <button class="default-btn" type="button" id="saveScore" onclick="saveHighScore(event)" disabled>Save Result</button>
+                <button class="default-btn" type="button" id="highScore" onclick="goToHighScores(event)">High Scores</button>
+                <button class="default-btn" type="button" onclick="playAgain(event)">Play Again</button>
+                <button class="default-btn" type="button" onclick="goHome(event)">Home</button>
+            </form>
+        </div>
+    </div>
+    
+    <script src="js/end.js"></script>
+</body>
+</html>
