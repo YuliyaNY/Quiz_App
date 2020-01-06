@@ -12,3 +12,4 @@ I built this Quiz App to improve my core knowledge of HTML, CSS, and JavaScript 
 - Fetch API
 
 ![](https://raw.githubusercontent.com/YuliyaNY/Quiz_App/master/img/Markdow%20img.png)
+:point_right: [Live Demo](https://yuliyany.github.io/Quiz_App/index.html)
