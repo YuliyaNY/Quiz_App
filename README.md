@@ -2,6 +2,7 @@
 I built this Quiz App to improve my core knowledge of HTML, CSS, and JavaScript without the assistance of libraries or frameworks.
 
 ## Built With
+- HTML/CSS
 - ES6 JavaScript Features
   - Arrow Functions, the Spread Operator, Const and Let, Template Literals
 - CSS
